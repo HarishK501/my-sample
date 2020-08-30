@@ -1,7 +1,8 @@
 #include<stdio.h>
- 
+
 int main()
 {
+      printf("Welcome!");
       int frames[10], temp[10], pages[10];
       int total_pages, m, n, position, k, l, total_frames;
       int a = 0, b = 0, page_fault = 0;
